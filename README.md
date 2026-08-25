@@ -68,7 +68,7 @@
 | **Current seat** | Full Stack Engineer, Pilot AI Labs (2026 – Present) |
 | **Best intro** | Email or LinkedIn with a one-paragraph problem brief |
 
-> Prefer a machine-readable résumé? Use the [agent endpoints](#agent-readable) below — same facts as [abhijeetgajjar.com/about](https://abhijeetgajjar.com/about).
+> Prefer a machine-readable résumé? Use the [agent endpoints](#agent-readable) below — same facts as [iabhijeetg.vercel.app/about](https://iabhijeetg.vercel.app/about).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,8 +84,8 @@ The through-line is that I like being close to two things: the customer, and the
 | Based | Artesia, CA · Los Angeles area |
 | Role | Software Engineer · Backend · Devices · On-device AI |
 | Years | 6 (mobile → backend → devices / AI) |
-| Portfolio | [abhijeetgajjar.com](https://abhijeetgajjar.com) |
-| About / CV | [abhijeetgajjar.com/about](https://abhijeetgajjar.com/about) |
+| Portfolio | [iabhijeetg.vercel.app](https://iabhijeetg.vercel.app) |
+| About / CV | [iabhijeetg.vercel.app/about](https://iabhijeetg.vercel.app/about) |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,7 +194,7 @@ Shipped a production commerce application from zero to release in one month agai
 | 🔌 | **Embedded Sensor Prototyping** | Hardware prototypes on Raspberry Pi and TI boards, interfacing sensors over GPIO, I2C, SPI, UART/serial, and USB. | Python · Embedded Linux |
 | 🏠 | **Dwelio** | Solo end-to-end AI property maintenance — request intake, vendor sourcing, bidding, completion. Live on web + TestFlight + Play. | FastAPI · PostgreSQL · OpenAI · React Native · AWS |
 
-More live apps and notes: [abhijeetgajjar.com](https://abhijeetgajjar.com) · [Selected work JSON](https://abhijeetgajjar.com/api/projects)
+More live apps and notes: [iabhijeetg.vercel.app](https://iabhijeetg.vercel.app) · [Selected work JSON](https://iabhijeetg.vercel.app/api/projects)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,10 +236,10 @@ Same source of truth as the site — no scraping required.
 
 | Method | Endpoint | What you get |
 |---|---|---|
-| `GET` | https://abhijeetgajjar.com/api/resume | Structured résumé JSON |
-| `GET` | https://abhijeetgajjar.com/api/projects | Selected work records |
-| `GET` | https://abhijeetgajjar.com/llms.txt | Plain-language hire brief |
-| `POST` | https://abhijeetgajjar.com/api/hire | Book an intro (`name`, `contact`, `brief`) |
+| `GET` | https://iabhijeetg.vercel.app/api/resume | Structured résumé JSON |
+| `GET` | https://iabhijeetg.vercel.app/api/projects | Selected work records |
+| `GET` | https://iabhijeetg.vercel.app/llms.txt | Plain-language hire brief |
+| `POST` | https://iabhijeetg.vercel.app/api/hire | Book an intro (`name`, `contact`, `brief`) |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -269,7 +269,7 @@ Commit graph, streak, and language mix for [@AbhijeetGajjar96](https://github.co
 - Email: [gajjarabhijeet@gmail.com](mailto:gajjarabhijeet@gmail.com)
 - Phone: [(562) 215-3250](tel:+15622153250)
 - LinkedIn: [linkedin.com/in/abhijeetgajjar](https://www.linkedin.com/in/abhijeetgajjar/)
-- Portfolio: [abhijeetgajjar.com](https://abhijeetgajjar.com)
+- Portfolio: [iabhijeetg.vercel.app](https://iabhijeetg.vercel.app)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0d10,100:22d3ee&height=100&section=footer" width="100%" alt="">
 
@@ -277,7 +277,7 @@ Commit graph, streak, and language mix for [@AbhijeetGajjar96](https://github.co
 
 <!-- Shields -->
 [portfolio-shield]: https://img.shields.io/badge/-Portfolio-22d3ee.svg?style=for-the-badge&logo=googlechrome&logoColor=0c0d10
-[portfolio-url]: https://abhijeetgajjar.com
+[portfolio-url]: https://iabhijeetg.vercel.app
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/abhijeetgajjar/
 [github-shield]: https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white
@@ -285,7 +285,7 @@ Commit graph, streak, and language mix for [@AbhijeetGajjar96](https://github.co
 [email-shield]: https://img.shields.io/badge/-Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white
 [email-url]: mailto:gajjarabhijeet@gmail.com
 [resume-shield]: https://img.shields.io/badge/-Resume-0c0d10.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=22d3ee
-[resume-url]: https://abhijeetgajjar.com/about
+[resume-url]: https://iabhijeetg.vercel.app/about
 [swift-shield]: https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white
 [swift-url]: https://swift.org
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
