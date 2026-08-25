@@ -247,18 +247,19 @@ Same source of truth as the site — no scraping required.
 
 Commit calendar and profile cards for [@AbhijeetGajjar96](https://github.com/AbhijeetGajjar96).
 
+<!-- Self-hosted PNGs (profile repo /media) so GitHub camo never depends on flaky third-party SVG hosts. -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/22d3ee/AbhijeetGajjar96" alt="GitHub contribution calendar" width="100%">
+  <img src="./media/github-calendar.png" alt="GitHub contribution calendar" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijeetGajjar96&theme=github_dark" alt="Profile details" width="100%">
+  <img src="./media/github-profile.png" alt="Profile details" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhijeetGajjar96&theme=github_dark" height="180" alt="GitHub stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhijeetGajjar96&theme=github_dark" height="180" alt="Repos per language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhijeetGajjar96&theme=github_dark" height="180" alt="Most commit language">
+  <img src="./media/github-stats.png" height="180" alt="GitHub stats">
+  <img src="./media/github-langs.png" height="180" alt="Repos per language">
+  <img src="./media/github-commits.png" height="180" alt="Most commit language">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
