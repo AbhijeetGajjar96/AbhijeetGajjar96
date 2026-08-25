@@ -4,10 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0d10,50:164e63,100:22d3ee&height=160&section=header&text=Abhijeet%20Gajjar&fontColor=f4f4f5&fontSize=42&fontAlignY=32&desc=iOS%20%E2%86%92%20Full-Stack%20AI%20Engineer%20%C2%B7%20LA&descSize=15&descAlignY=55" alt="Banner" width="100%">
 
-<img src="https://avatars.githubusercontent.com/u/21087072?v=4" alt="Abhijeet Gajjar" width="120" style="border-radius:50%">
-
-<br>
-
 [![Portfolio][portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
@@ -27,7 +23,7 @@
 <!-- Status: regenerate the date when you push an update -->
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20work%20%C2%B7%20LA%20full--time-22d3ee?style=for-the-badge&logo=statuspage&logoColor=0c0d10" alt="Open to work">
-  <img src="https://img.shields.io/badge/Last%20updated-2026--08--25%2013%3A59%20PDT-0c0d10?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Last updated">
+  <img src="https://img.shields.io/badge/Last%20updated-2026--08--25%2014%3A01%20PDT-0c0d10?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Last updated">
   <img src="https://img.shields.io/badge/Timezone-PDT%20(UTC--7)-71717a?style=for-the-badge&logo=clockify&logoColor=white" alt="Timezone">
 </p>
 
@@ -56,6 +52,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#education">Education</a></li>
     <li><a href="#agent-readable">Agent-Readable</a></li>
+    <li><a href="#github-activity">GitHub Activity</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -67,7 +64,7 @@
 | **Looking for** | Full-time software / AI engineering roles in the **Los Angeles area** |
 | **Available** | Yes — open to work |
 | **Local time zone** | America/Los_Angeles (PDT / UTC−7 in summer) |
-| **Last README refresh** | **2026-08-25 · 13:59 PDT** |
+| **Last README refresh** | **2026-08-25 · 14:01 PDT** |
 | **Current seat** | Full Stack Engineer, Pilot AI Labs (2026 – Present) |
 | **Best intro** | Email or LinkedIn with a one-paragraph problem brief |
 
@@ -246,6 +243,25 @@ Same source of truth as the site — no scraping required.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## GitHub Activity
+
+Commit graph, streak, and language mix for [@AbhijeetGajjar96](https://github.com/AbhijeetGajjar96).
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetGajjar96&theme=react&hide_border=true&area=true&color=22d3ee&line=22d3ee&point=67e8f9&radius=8" alt="Contribution activity graph" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetGajjar96&theme=dark&hide_border=true&background=0c0d10&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=a1a1aa&dates=71717a&stroke=26272e" alt="GitHub streak" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetGajjar96&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark&icon_color=22d3ee&title_color=22d3ee&text_color=f4f4f5&bg_color=0c0d10" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetGajjar96&layout=compact&hide_border=true&theme=dark&text_color=f4f4f5&bg_color=0c0d10&title_color=22d3ee&langs_count=8" alt="Top languages" height="165">
+</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Contact
 
 **Abhijeet Gajjar** — open to work in Los Angeles · reply within a day or two when I can
@@ -254,15 +270,6 @@ Same source of truth as the site — no scraping required.
 - Phone: [(562) 215-3250](tel:+15622153250)
 - LinkedIn: [linkedin.com/in/abhijeetgajjar](https://www.linkedin.com/in/abhijeetgajjar/)
 - Portfolio: [abhijeetgajjar.com](https://abhijeetgajjar.com)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetGajjar96&theme=react&hide_border=true&area=true&color=22d3ee&line=22d3ee&point=67e8f9" alt="Contribution graph" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetGajjar96&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=dark&icon_color=22d3ee&title_color=22d3ee&text_color=f4f4f5&bg_color=0c0d10" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetGajjar96&layout=compact&hide_border=true&hide_title=true&theme=dark&text_color=f4f4f5&bg_color=0c0d10&title_color=22d3ee" alt="Top languages" height="150">
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0d10,100:22d3ee&height=100&section=footer" width="100%" alt="">
 
