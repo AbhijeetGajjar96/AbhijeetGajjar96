@@ -245,19 +245,20 @@ Same source of truth as the site — no scraping required.
 
 ## GitHub Activity
 
-Commit graph, streak, and language mix for [@AbhijeetGajjar96](https://github.com/AbhijeetGajjar96).
+Commit calendar and profile cards for [@AbhijeetGajjar96](https://github.com/AbhijeetGajjar96).
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetGajjar96&theme=react&hide_border=true&area=true&color=22d3ee&line=22d3ee&point=67e8f9&radius=8" alt="Contribution activity graph" width="100%">
+  <img src="https://ghchart.rshah.org/22d3ee/AbhijeetGajjar96" alt="GitHub contribution calendar" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetGajjar96&theme=dark&hide_border=true&background=0c0d10&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=a1a1aa&dates=71717a&stroke=26272e" alt="GitHub streak" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijeetGajjar96&theme=github_dark" alt="Profile details" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetGajjar96&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark&icon_color=22d3ee&title_color=22d3ee&text_color=f4f4f5&bg_color=0c0d10" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetGajjar96&layout=compact&hide_border=true&theme=dark&text_color=f4f4f5&bg_color=0c0d10&title_color=22d3ee&langs_count=8" alt="Top languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhijeetGajjar96&theme=github_dark" height="180" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhijeetGajjar96&theme=github_dark" height="180" alt="Repos per language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhijeetGajjar96&theme=github_dark" height="180" alt="Most commit language">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
