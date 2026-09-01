@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0d10,50:164e63,100:22d3ee&height=160&section=header&text=Abhijeet%20Gajjar&fontColor=f4f4f5&fontSize=42&fontAlignY=32&desc=iOS%20%E2%86%92%20Full-Stack%20AI%20Engineer%20%C2%B7%20LA&descSize=15&descAlignY=55" alt="Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0d10,50:164e63,100:22d3ee&height=160&section=header&text=Abhijeet%20Gajjar&fontColor=f4f4f5&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Devices%20%C2%B7%20On-Device%20AI&descSize=14&descAlignY=55" alt="Banner" width="100%">
 
 [![Portfolio][portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -10,122 +10,82 @@
 [![Email][email-shield]][email-url]
 [![Resume][resume-shield]][resume-url]
 
-<h1>Abhijeet Gajjar</h1>
+</div>
 
-<p>
-  <strong>iOS engineer turned full-stack AI engineer.</strong>
-  <br>
-  I build backend services, LLM agent systems, and software that talks to physical devices.
-  <br><br>
-  📍 Artesia / Los Angeles, CA · ⏰ America/Los_Angeles · 📅 6 years · 🎓 M.S. Information Technology
-</p>
+<div align="center">
 
-<!-- Status: regenerate the date when you push an update -->
-<p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work%20%C2%B7%20LA%20full--time-22d3ee?style=for-the-badge&logo=statuspage&logoColor=0c0d10" alt="Open to work">
-  <img src="https://img.shields.io/badge/Last%20updated-2026--08--25%2014%3A01%20PDT-0c0d10?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Last updated">
-  <img src="https://img.shields.io/badge/Timezone-PDT%20(UTC--7)-71717a?style=for-the-badge&logo=clockify&logoColor=white" alt="Timezone">
-</p>
+**Software engineer with six years of experience across backend systems, device integration, and on-device AI.**
+
+Seeking backend or ML engineering roles in Los Angeles &middot; open to hybrid and on-site
+
+<br>
+
+<img src="https://img.shields.io/badge/Available-Full--time%20%C2%B7%20Los%20Angeles-22d3ee?style=for-the-badge&logo=statuspage&logoColor=0c0d10" alt="Available">
+<img src="https://img.shields.io/badge/Updated-2026--09--01-0c0d10?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Last updated">
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=AbhijeetGajjar96&label=Profile%20views&color=22d3ee&style=flat" alt="Profile views">
 
 </div>
 
-<details open>
-  <summary><strong>Table of Contents</strong></summary>
-  <ol>
-    <li><a href="#now">Now</a></li>
-    <li><a href="#about-me">About Me</a></li>
-    <li>
-      <a href="#what-i-work-on">What I Work On</a>
-      <ul>
-        <li><a href="#on-device-inference">On-Device Inference</a></li>
-        <li><a href="#llm-agents-in-production">LLM Agents in Production</a></li>
-        <li><a href="#devices-and-low-level-integration">Devices &amp; Low-Level Integration</a></li>
-        <li><a href="#debugging">Debugging</a></li>
-      </ul>
-    </li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#experience">Experience</a></li>
-    <li><a href="#selected-work">Selected Work</a></li>
-    <li><a href="#how-i-work">How I Work</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#education">Education</a></li>
-    <li><a href="#agent-readable">Agent-Readable</a></li>
-    <li><a href="#github-activity">GitHub Activity</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+---
 
-## Now
+### Contents
+
+[About](#about) &middot; [Technical Focus](#technical-focus) &middot; [Technology](#technology) &middot; [Experience](#experience) &middot; [Selected Work](#selected-work) &middot; [Education](#education) &middot; [Machine-Readable Endpoints](#machine-readable-endpoints) &middot; [Contact](#contact)
+
+---
+
+## About
 
 | | |
 |---|---|
-| **Looking for** | Full-time software / AI engineering roles in the **Los Angeles area** |
-| **Available** | Yes — open to work |
-| **Local time zone** | America/Los_Angeles (PDT / UTC−7 in summer) |
-| **Last README refresh** | **2026-08-25 · 14:01 PDT** |
-| **Current seat** | Full Stack Engineer, Pilot AI Labs (2026 – Present) |
-| **Best intro** | Email or LinkedIn with a one-paragraph problem brief |
+| **Name** | Abhijeet Gajjar |
+| **Location** | Artesia, CA (Los Angeles area) |
+| **Current role** | Full Stack Engineer, Pilot AI Labs |
+| **Experience** | 6 years &mdash; mobile, backend, device integration, AI |
+| **Seeking** | Backend engineering, ML engineering, or full-stack roles (hybrid / on-site in LA) |
+| **Portfolio** | [iabhijeetg.vercel.app](https://iabhijeetg.vercel.app) |
+| **Full CV** | [iabhijeetg.vercel.app/about](https://iabhijeetg.vercel.app/about) |
 
-> Prefer a machine-readable résumé? Use the [agent endpoints](#agent-readable) below — same facts as [iabhijeetg.vercel.app/about](https://iabhijeetg.vercel.app/about).
+I began in native iOS development and progressed through backend systems, embedded device integration, and AI engineering. The strongest proof of that trajectory is [Dwelio](https://www.dwelio.app/), a property maintenance platform I designed and delivered independently &mdash; from data model and FastAPI backend through OpenAI agent workflows to released React Native applications on iOS and Android. No team, no handoff; one engineer across every layer.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Across each stage of my career, the common thread has been working close to the end user and close to the hardware, where constraints are concrete and the feedback loop is short.
 
-## About Me
+<p align="right"><a href="#readme-top">top</a></p>
 
-Six years across mobile and backend. I started in native iOS at an IT services firm building client applications, spent two years at a healthcare staffing startup as the direct technical contact for customers and the founder, delivered enterprise IoT engagements across four clients, then moved into backend systems and AI.
-
-The through-line is that I like being close to two things: the customer, and the hardware. Most of my best work has come from being in the room when a problem was described, or close enough to the metal to know why something was slow.
-
-| At a glance | |
-|---|---|
-| Full name | Abhijeet Gajjar |
-| Based | Artesia, CA · Los Angeles area |
-| Role | Software Engineer · Backend · Devices · On-device AI |
-| Years | 6 (mobile → backend → devices / AI) |
-| Portfolio | [iabhijeetg.vercel.app](https://iabhijeetg.vercel.app) |
-| About / CV | [iabhijeetg.vercel.app/about](https://iabhijeetg.vercel.app/about) |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## What I Work On
+## Technical Focus
 
 ### On-Device Inference
 
-Getting models to run where the data already is. I convert trained models to Core ML, quantize them to fit mobile memory and compute budgets, and measure what the compression actually costs in accuracy. Shipped real-time computer vision at **30fps on iOS**, and replaced a hosted inference pipeline with a local one — removing per-request server cost and network dependency from the critical path.
+Conversion of trained models to Core ML with quantization tuned to mobile memory and compute constraints. Delivered real-time computer vision at **30 fps on iOS** (down from ~8 fps before INT8 quantization) and replaced a hosted inference pipeline with a local one, eliminating per-request server cost and network dependency.
 
-The interesting constraint is that mobile hardware doesn't forgive. A model that runs fine on a GPU will thermal-throttle a phone into unusability. Most of the work is deciding what to give up.
+The key architectural decision was choosing INT8 over INT4 quantization: INT4 saved more memory but introduced enough accuracy loss that the object-detection confidence threshold had to drop below a usable level. INT8 kept accuracy within 2% of the float32 baseline while fitting comfortably in the device's memory budget.
 
-### LLM Agents in Production
+### Production Agent Systems
 
-Two years building Python and FastAPI microservices that decompose natural-language requests into executed tasks, using **LangChain and LangGraph** for agent orchestration. Cut manual processing overhead **40%** in a live business workflow.
+Two years developing Python and FastAPI microservices that decompose natural-language requests into executed tasks using **LangChain and LangGraph** for orchestration. Reduced manual processing overhead by **40%** in a production workflow handling ~200 daily maintenance requests at Propbase.
 
-The demo was never the hard part. The hard part was scoping — early on I let the agent handle steps that were fully deterministic, which made the system slower, more expensive, and less predictable than plain code. Pulling those back and reserving the model for genuinely ambiguous interpretation is what made it reliable.
+Early on I let the agent handle steps that were fully deterministic, which made the system slower, more expensive, and less predictable than plain code. Pulling those back and reserving the model for genuinely ambiguous interpretation &mdash; routing intent, not executing known procedures &mdash; is what made the pipeline reliable enough for production traffic.
 
-Second hardest: knowing *why* a run failed. Reading logs and inferring intent is not observability.
+### Device Integration
 
-### Devices and Low-Level Integration
+BLE peripheral discovery, live sensor telemetry, and offline persistence with automatic state reconciliation after connectivity loss. Delivered cross-platform solutions to **two enterprise clients** at Cygnet Infotech (iOS and Android). Hands-on prototyping with **Raspberry Pi and Texas Instruments** boards over GPIO, I2C, SPI, UART, and USB.
 
-BLE peripheral discovery and connection management, live sensor telemetry, and offline persistence that reconciles buffered state automatically after connectivity loss. Delivered to **two enterprise clients** across iOS and Android.
+### Quality Engineering
 
-Hardware prototyping on **Raspberry Pi and Texas Instruments** boards — interfacing sensors and peripherals over GPIO, I2C, SPI, UART/serial, and USB, processing device data in Python on embedded Linux.
+| Metric | Context | Result |
+|---|---|---|
+| Critical runtime defects resolved | BeLocum &mdash; 2 years, healthcare staffing platform with 100K+ registrations and 10K DAU | **50+** |
+| Crash-rate reduction via TDD | Cygnet Infotech &mdash; introduced XCTest across four enterprise IoT client apps | **70%** (from ~12% session crash rate) |
+| Crash-rate reduction across applications | Ecosmob &mdash; 18+ production iOS apps over one year | **20%** |
+| System stability improvement | BeLocum &mdash; measured via crash-free sessions after systematic log triage | **+50%** |
+| Downtime through scaling events | Propbase &mdash; Azure-hosted REST APIs under growing B2B load | **Zero** |
 
-### Debugging
+<p align="right"><a href="#readme-top">top</a></p>
 
-The part of the job I actually enjoy. Unexpected failures in live systems are the most interesting problem in software, because the answer is always somewhere you didn't think to look.
-
-| Metric | Result |
-|---|---|
-| Critical runtime defects root-caused | **50+** |
-| Crash-rate reduction via TDD | **70%** |
-| Crash-rate reduction across 10+ apps | **20%** |
-| System stability improvement | **50%** |
-| Downtime through scaling events | **Zero** |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Built With
+## Technology
 
 [![Swift][swift-shield]][swift-url]
 [![Python][python-shield]][python-url]
@@ -140,142 +100,110 @@ The part of the job I actually enjoy. Unexpected failures in live systems are th
 [![Azure][azure-shield]][azure-url]
 [![Bluetooth][ble-shield]][ble-url]
 
-```
-Languages    Swift · Objective-C · Python · TypeScript · Java · Kotlin · C++ · SQL · Bash
-AI / ML      LangChain · LangGraph · PyTorch · TensorFlow · Core ML · RAG · Vector DBs
-             Prompt engineering · Fine-tuning · Quantization · On-device inference
-Backend      FastAPI · Flask · Django · Spring Boot · Node.js · REST · GraphQL · WebSockets
-Cloud        AWS (Lambda, S3, API Gateway) · Azure · GCP · Docker · Kubernetes · CI/CD
-Data         PostgreSQL · SQLite · Redis · MongoDB · Snowflake · Azure Data Pipelines
-Apple        UIKit · SwiftUI · Core Data · Core Bluetooth · Core ML · Vision · XCTest
-Devices      BLE · Raspberry Pi · Texas Instruments · GPIO · I2C · SPI · UART · USB
-```
+<details>
+<summary><strong>Full technology inventory</strong></summary>
+<br>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+| Category | Tools |
+|---|---|
+| **Languages** | Swift, Objective-C, Python, TypeScript, Java, Kotlin, C++, SQL, Bash |
+| **AI / ML** | LangChain, LangGraph, PyTorch, TensorFlow, Core ML, RAG, vector databases, quantization |
+| **Backend** | FastAPI, Flask, Django, Spring Boot, Node.js, REST, GraphQL, WebSockets |
+| **Cloud** | AWS (Lambda, S3, API Gateway), Azure, GCP, Docker, Kubernetes, CI/CD |
+| **Data** | PostgreSQL, SQLite, Redis, MongoDB, Snowflake, Azure Data Pipelines |
+| **Apple** | UIKit, SwiftUI, Core Data, Core Bluetooth, Core ML, Vision, XCTest |
+| **Devices** | BLE, Raspberry Pi, Texas Instruments, GPIO, I2C, SPI, UART, USB |
+
+</details>
+
+<p align="right"><a href="#readme-top">top</a></p>
 
 ## Experience
 
-| Period | Role | Focus |
-|---|---|---|
-| **2026 –** | Full Stack Engineer, Pilot AI Labs | Zero-to-one product, on-device Core ML, payments and vendor API integration |
-| **2024 – 26** | Software Engineer, Propbase | LLM agent microservices, Azure infrastructure, data pipelines |
-| **2022 – 23** | Software Engineer, Cygnet Infotech | Enterprise IoT, reusable Swift architecture across four clients |
-| **2020 – 22** | iOS Developer, BeLocum | Healthcare staffing platform, Objective-C → Swift migration, ML computer vision |
-| **2019 – 20** | Junior iOS Developer, Ecosmob | 10+ production iOS apps, test suites, REST integration |
+| Period | Role | Organization | Focus |
+|---|---|---|---|
+| 2026 &ndash; present | Full Stack Engineer | Pilot AI Labs | Zero-to-one product in one month, on-device Core ML, Stripe and 3DLOOK API integration |
+| 2024 &ndash; 2026 | Software Engineer | Propbase LLC | LLM agent microservices (40% overhead reduction), Azure infrastructure, automated data pipelines |
+| 2022 &ndash; 2023 | Software Engineer | Cygnet Infotech | Enterprise IoT for four clients, reusable Swift architecture, 70% crash-rate reduction via TDD |
+| 2020 &ndash; 2022 | Software Engineer | BeLocum | Healthcare platform (100K+ registrations, 10K DAU), Obj-C &rarr; Swift migration, ML computer vision |
+| 2019 &ndash; 2020 | Software Engineer | Ecosmob Technologies | 18+ production iOS apps, test suites, 20% crash-rate reduction |
 
 <details>
-<summary><strong>A migration I'm proud of</strong></summary>
-
+<summary><strong>Pilot AI Labs (current)</strong></summary>
 <br>
 
-At BeLocum I replaced a legacy Objective-C codebase with a Swift implementation **without disrupting users** — bridging modules incrementally while the product stayed in continuous release. Runtime efficiency improved 20%, and the platform supported a launch reaching 100,000+ registrations and 10,000 daily active users.
-
-Rewrites that stop the world are easy to plan and hard to survive. Doing it module by module, under live traffic, with both languages coexisting, is slower and considerably less glamorous — and it's the only version that actually ships.
+Delivered a production commerce application from initial concept to release within one month using a serverless AWS Lambda backend. Integrated Stripe payment processing and the 3DLOOK body-measurement API behind REST endpoints with webhook handling. Prototyped on-device Core ML inference to eliminate per-request hosting costs.
 
 </details>
 
 <details>
-<summary><strong>What I'm doing now (Pilot AI Labs)</strong></summary>
-
+<summary><strong>BeLocum &mdash; incremental migration</strong></summary>
 <br>
 
-Shipped a production commerce application from zero to release in one month against a serverless AWS Lambda backend. Integrated Stripe and the 3DLOOK body-measurement API behind REST endpoints with webhook handling. Prototyped on-device Core ML inference to remove per-request hosting cost.
+Replaced a legacy Objective-C codebase with Swift through incremental module bridging while the product remained in continuous release. Runtime efficiency improved by 20%, and the platform supported a launch reaching 100,000+ registrations and 10,000 daily active users.
 
 </details>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">top</a></p>
 
 ## Selected Work
 
-| | Project | Description | Stack |
+| Project | Description | Technology | Links |
 |---|---|---|---|
-| 📡 | **Bluetooth IoT Sensor Dashboard** | Cross-platform device monitoring delivered to two enterprise clients. Peripheral discovery, live telemetry, offline persistence, automatic state reconciliation on reconnect. | Swift · Kotlin · Core Bluetooth · SQLite |
-| 👁️ | **Real-Time ML Object Detection** | End-to-end computer vision pipeline converted to Core ML for on-device inference at 30fps, with quantization tuned to hardware constraints. | PyTorch · TensorFlow · Core ML |
-| 🔌 | **Embedded Sensor Prototyping** | Hardware prototypes on Raspberry Pi and TI boards, interfacing sensors over GPIO, I2C, SPI, UART/serial, and USB. | Python · Embedded Linux |
-| 🏠 | **Dwelio** | Solo end-to-end AI property maintenance — request intake, vendor sourcing, bidding, completion. Live on web + TestFlight + Play. | FastAPI · PostgreSQL · OpenAI · React Native · AWS |
+| **Dwelio** | AI property maintenance platform &mdash; delivered solo from data model to production. Automated request intake, vendor sourcing and negotiation, bidding, and completion. One engineer across backend, agent, and mobile. | FastAPI, PostgreSQL, OpenAI, React Native, AWS | [Web](https://www.dwelio.app/) |
+| **Real-Time ML Object Detection** | End-to-end computer vision pipeline: PyTorch &rarr; TensorFlow &rarr; Core ML, INT8 quantized for 30 fps on-device inference. | PyTorch, TensorFlow, Core ML | [GitHub](https://github.com/AbhijeetGajjar96) |
+| **Bluetooth IoT Sensor Dashboard** | Cross-platform device monitoring for two enterprise clients. BLE peripheral discovery, live telemetry, offline persistence, automatic state reconciliation on reconnect. | Swift, Kotlin, Core Bluetooth, SQLite | &mdash; |
+| **Embedded Sensor Prototyping** | Functional prototypes on Raspberry Pi and TI boards, interfacing sensors over GPIO, I2C, SPI, UART, and USB. | Python, Embedded Linux | [GitHub](https://github.com/AbhijeetGajjar96) |
+| **iCyclop** | AI pill counting via computer vision, PyTorch &rarr; Core ML. | PyTorch, Core ML, Swift | [App Store](https://apps.apple.com/ca/app/icyclop/id1621270285) |
+| **BeLocum** | Healthcare staffing marketplace &mdash; 100K+ registrations, 10K DAU. Led Obj-C &rarr; Swift migration. | Swift, PyTorch, TensorFlow | [App Store](https://apps.apple.com/ca/app/belocum/id1263903693) |
 
-More live apps and notes: [iabhijeetg.vercel.app](https://iabhijeetg.vercel.app) · [Selected work JSON](https://iabhijeetg.vercel.app/api/projects)
+More projects and live apps: [iabhijeetg.vercel.app](https://iabhijeetg.vercel.app) &middot; [Projects JSON](https://iabhijeetg.vercel.app/api/projects)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">top</a></p>
 
-## How I Work
+## Education
 
-**Test-driven where it counts.** TDD with XCTest is how I got crash rates down 70% — not by writing tests after the fact.
+| Degree | Institution | Year | Detail |
+|---|---|---|---|
+| **M.S. Information Technology** | Westcliff University, Irvine, CA | 2025 | GPA 4.0 |
+| **B.E. Information Technology** | Gujarat Technological University, India | 2017 | |
 
-**AI tooling, deliberately.** I code mostly in Cursor and keep a markdown file in each repo describing architecture, conventions, and the current task, so I feed a compact written summary instead of re-explaining the codebase every session. Cheaper in tokens and more consistent in output, because the model works from stated constraints rather than whatever it inferred from recent files.
+<p align="right"><a href="#readme-top">top</a></p>
 
-I don't merge generated code I couldn't defend in review. It's strongest on scaffolding, tests, and unfamiliar APIs; weakest on business logic I haven't fully specified — which usually means my requirements were vague, not that the model failed.
+## Machine-Readable Endpoints
 
-**Close to the customer.** At BeLocum I ran discovery on live problems directly with customers and the founder, then came back with two or three implementation approaches and their tradeoffs so they could choose against their own priorities.
+Structured data for automated evaluation. No scraping required.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+| Method | Endpoint | Description |
+|---|---|---|
+| `GET` | [`/api/resume`](https://iabhijeetg.vercel.app/api/resume) | Structured r&eacute;sum&eacute; as JSON |
+| `GET` | [`/api/projects`](https://iabhijeetg.vercel.app/api/projects) | Selected work records |
+| `GET` | [`/llms.txt`](https://iabhijeetg.vercel.app/llms.txt) | Plain-language summary for AI agents |
+
+<p align="right"><a href="#readme-top">top</a></p>
 
 ## Roadmap
 
 - [x] Production LLM agent systems with LangChain and LangGraph
 - [x] On-device inference with Core ML and model quantization
 - [x] BLE device integration with offline state reconciliation
-- [x] Public agent-ready portfolio (`/api/resume`, `/api/projects`, `/llms.txt`)
-- [ ] MCP servers with evaluation harnesses running in CI
-- [ ] Diffusion models for computer vision
-- [ ] On-device LLM inference on constrained hardware
+- [x] Agent-ready portfolio with structured API endpoints
+- [ ] Build an MCP server for device telemetry with an evaluation harness running in CI
+- [ ] Run a quantized 7B language model on an M-series Mac Mini as a local API replacement
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Education
-
-**M.S. Information Technology** — Westcliff University, Irvine, CA · 2025 · GPA 4.0
-
-**B.E. Information Technology** — Gujarat Technological University, India · 2017
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Agent-Readable
-
-Same source of truth as the site — no scraping required.
-
-| Method | Endpoint | What you get |
-|---|---|---|
-| `GET` | https://iabhijeetg.vercel.app/api/resume | Structured résumé JSON |
-| `GET` | https://iabhijeetg.vercel.app/api/projects | Selected work records |
-| `GET` | https://iabhijeetg.vercel.app/llms.txt | Plain-language hire brief |
-| `POST` | https://iabhijeetg.vercel.app/api/hire | Book an intro (`name`, `contact`, `brief`) |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## GitHub Activity
-
-Commit calendar and profile cards for [@AbhijeetGajjar96](https://github.com/AbhijeetGajjar96).
-
-<!-- Self-hosted PNGs (profile repo /media) so GitHub camo never depends on flaky third-party SVG hosts. -->
-<p align="center">
-  <img src="./media/github-calendar.png" alt="GitHub contribution calendar" width="100%">
-</p>
-
-<p align="center">
-  <img src="./media/github-profile.png" alt="Profile details" width="100%">
-</p>
-
-<p align="center">
-  <img src="./media/github-stats.png" height="180" alt="GitHub stats">
-  <img src="./media/github-langs.png" height="180" alt="Repos per language">
-  <img src="./media/github-commits.png" height="180" alt="Most commit language">
-</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">top</a></p>
 
 ## Contact
 
-**Abhijeet Gajjar** — open to work in Los Angeles · reply within a day or two when I can
-
-- Email: [gajjarabhijeet@gmail.com](mailto:gajjarabhijeet@gmail.com)
-- Phone: [(562) 215-3250](tel:+15622153250)
-- LinkedIn: [linkedin.com/in/abhijeetgajjar](https://www.linkedin.com/in/abhijeetgajjar/)
-- Portfolio: [iabhijeetg.vercel.app](https://iabhijeetg.vercel.app)
+| | |
+|---|---|
+| **Email** | [gajjarabhijeet@gmail.com](mailto:gajjarabhijeet@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/abhijeetgajjar](https://www.linkedin.com/in/abhijeetgajjar/) |
+| **Portfolio** | [iabhijeetg.vercel.app](https://iabhijeetg.vercel.app) |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0d10,100:22d3ee&height=100&section=footer" width="100%" alt="">
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">top</a></p>
 
 <!-- Shields -->
 [portfolio-shield]: https://img.shields.io/badge/-Portfolio-22d3ee.svg?style=for-the-badge&logo=googlechrome&logoColor=0c0d10
@@ -286,7 +214,7 @@ Commit calendar and profile cards for [@AbhijeetGajjar96](https://github.com/Abh
 [github-url]: https://github.com/AbhijeetGajjar96
 [email-shield]: https://img.shields.io/badge/-Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white
 [email-url]: mailto:gajjarabhijeet@gmail.com
-[resume-shield]: https://img.shields.io/badge/-Resume-0c0d10.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=22d3ee
+[resume-shield]: https://img.shields.io/badge/-R%C3%A9sum%C3%A9-0c0d10.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=22d3ee
 [resume-url]: https://iabhijeetg.vercel.app/about
 [swift-shield]: https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white
 [swift-url]: https://swift.org
@@ -312,10 +240,3 @@ Commit calendar and profile cards for [@AbhijeetGajjar96](https://github.com/Abh
 [azure-url]: https://azure.microsoft.com
 [ble-shield]: https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white
 [ble-url]: https://www.bluetooth.com
-
-<!--
-  IMAGES — optional project thumbs
-  1. Add images/ble-thumb.png, images/ml-thumb.png, images/embedded-thumb.png
-  2. Or paste GitHub user-attachments CDN URLs from an issue draft
-  3. Keep under 200KB each
--->
