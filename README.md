@@ -46,8 +46,8 @@ Seeking backend or ML engineering roles in Los Angeles &middot; open to hybrid a
 | **Current role** | Full Stack Engineer, Pilot AI Labs |
 | **Experience** | 6 years &mdash; mobile, backend, device integration, AI |
 | **Seeking** | Backend engineering, ML engineering, or full-stack roles (hybrid / on-site in LA) |
-| **Portfolio** | [www.abhijeet.si] (www.abhijeet.si/) |
-| **Full CV** | [www.abhijeet.si/about] (www.abhijeet.si//about) |
+| **Portfolio** | [www.abhijeet.si] (www.abhijeet.si) |
+| **Full CV** | [www.abhijeet.si/about] (www.abhijeet.si/about) |
 
 I began in native iOS development and progressed through backend systems, embedded device integration, and AI engineering. The strongest proof of that trajectory is [Dwelio](https://www.dwelio.app/), a property maintenance platform I designed and delivered independently &mdash; from data model and FastAPI backend through OpenAI agent workflows to released React Native applications on iOS and Android. No team, no handoff; one engineer across every layer.
 
